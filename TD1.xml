@@ -1,0 +1,19 @@
+<?xml version ="1.0" encoding="iso-8859-1" ?>
+<Projets>
+    <Projet>
+        <nom>  Projet1</nom>
+        <librairies>
+            <librairie>
+                <nom>librairie1</nom>
+                <version>2.2.0</version>
+                <description>librairie numero 1</description>
+            </librairie>
+        </librairies>
+        <Serveurs>
+            <Serveur>
+                <nom>AWS</nom>
+                <url> aws.amazon.com</url>
+            </Serveur>
+        </Serveurs>
+    </Projet>
+</Projets>

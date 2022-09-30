@@ -1,0 +1,11 @@
+---
+Projets:
+  -nom : Projet1
+   version : 220
+   librairies:
+    -nom : librairie1
+     lversion : 4.4.0
+     descriptif : librairie numero 1
+   serveurs:
+    -nom : AWS
+     url : amazon.com
